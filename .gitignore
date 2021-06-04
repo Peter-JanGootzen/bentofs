@@ -1,4 +1,5 @@
 *.o
+*.o.d
 *.o.ur-safe
 *.o.cmd
 .cache.mk
